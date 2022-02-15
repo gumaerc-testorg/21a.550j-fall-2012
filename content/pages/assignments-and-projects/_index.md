@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and Projects
 uid: 9364e108-2edb-6069-342e-722d78adba29
 ---

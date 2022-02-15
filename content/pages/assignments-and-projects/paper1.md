@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Projects
+parent_type: CourseSection
 parent_uid: 9364e108-2edb-6069-342e-722d78adba29
 title: Short Paper Assignment
 uid: cbf1a3a3-be1d-664c-d181-c14b5cf61005

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture and Lab Videos
 uid: d61a4e55-ca51-6fb4-fe89-4ab0e52d9a13
 ---

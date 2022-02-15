@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 10 Part 1: Introduction to Lighting (Lecture)'
 uid: 927d3122-c9bc-bb8f-a002-0286375daf84

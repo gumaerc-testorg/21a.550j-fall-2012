@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 2 Part 2: Introduction to Sound'
 uid: 4ffb5a0a-b9b9-f249-c823-0744f2197c37

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 2 Part 1: Review Lab 1 Footage; Film Grammar'
 uid: d312aa93-fb0b-90e6-2763-76b1fb3017be

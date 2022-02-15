@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 1 Part 1: Introduction to the Camera'
 uid: eb019906-0f3b-2f18-dcf6-43587ed1e531
