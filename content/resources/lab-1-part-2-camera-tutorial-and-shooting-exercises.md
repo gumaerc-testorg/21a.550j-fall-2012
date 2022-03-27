@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 1 Part 2: Camera Tutorial and Shooting Exercises'
 uid: 35b7ffbd-84bd-897f-03e5-1e1ed49496d0
 video_files:

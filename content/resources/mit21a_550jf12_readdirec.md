@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Films and Readings
 parent_type: CourseSection
+parent_uid: f198482f-4ff8-6df2-7a34-f3d9660d0d7e
 resourcetype: Document
 title: Direct Cinema filmmaker kin chart
 uid: 66e6b03a-e587-bdfc-5760-32e17d715acf

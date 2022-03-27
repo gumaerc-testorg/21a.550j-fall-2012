@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Lab Videos
 parent_type: CourseSection
+parent_uid: d61a4e55-ca51-6fb4-fe89-4ab0e52d9a13
 resourcetype: Other
 title: rss.xml
 uid: b8f612c4-bb24-c496-6cd6-5fe8a271b6cb
