@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents tip and legal guidelines for video-taping in public
+  spaces and working with people.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Projects

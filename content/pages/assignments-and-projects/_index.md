@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the DV Lab, details on the short
+  paper assignment and projects, and videos by DV Lab students.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Projects
@@ -9,12 +11,12 @@ uid: 9364e108-2edb-6069-342e-722d78adba29
 Guidelines
 ----------
 
-[DV Lab Documentary Ethics]({{< baseurl >}}/pages/assignments-and-projects/ethics)
+{{% resource_link eace5440-f8cc-2bb8-00c8-7381ab1ad356 "DV Lab Documentary Ethics" %}}
 
 Homework
 --------
 
-[Short paper assignment]({{< baseurl >}}/pages/assignments-and-projects/paper1)
+{{% resource_link cbf1a3a3-be1d-664c-d181-c14b5cf61005 "Short paper assignment" %}}
 
 Projects
 --------
