@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This lab session concludes with a tutorial on the specific camera (Sony HVR-A1U) and tripod used in class, and students roam the campus doing initial shooting exercises.  
 **Instructor:** Chris Boebel, Christine Walley and Dave Stripinis
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This lab session concludes with a brief lecture on microphones and digital audio, followed by hands-on activities with the class audio kit, including clip-on lavalier and shotgun boom mics.  
 **Instructor:** Chris Boebel, Christine Walley and Dave Stripinis
-
-
 

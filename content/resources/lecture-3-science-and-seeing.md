@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This lecture explores the interaction between doing science and making documentaries. Science is a human activity, not purely objective but also framed in social interpretations; and its depiction in film affects the public's grasp of scientific debate.  
 **Instructor:** Chris Boebel and Christine Walley
-
-
 

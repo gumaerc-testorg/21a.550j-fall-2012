@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This lab session begins with a short lecture on video camera fundamentals and terminology.  
 **Instructor:** Chris Boebel and Christine Walley
-
-
 

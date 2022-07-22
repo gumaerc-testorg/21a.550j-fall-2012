@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** The class views and discusses excerpts of three films about the Inuit—Nanook of the North (1922), Nanook Revisited (1990), and Starting Fire with Gunpowder (1991)—and Vertov's Man with a Movie Camera (1929).  
 **Instructor:** Christine Walley and Chris Boebel
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This lecture poses ways to think about documentary film, e.g. an interactive process among filmmaker, subjects & audience; and a construction of initial questions and "what's in vs. out" editing. Examples from early science films & contemporary works.  
 **Instructor:** Chris Boebel and Christine Walley
-
-
 

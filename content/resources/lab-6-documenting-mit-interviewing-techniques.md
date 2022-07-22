@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 
 **Description:** This session covers interviewing techniques. Topics include documenting the MIT student experience, with a talk by guest Associate Dean Chris Jones; how to ask questions; and shooting tips for interviews (e.g. framing, lighting).  
 **Instructor:** Chris Boebel, Christine Walley and guest speaker Chris Jones
-
-
 
