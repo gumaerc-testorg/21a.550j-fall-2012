@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 1 Part 2: Camera Tutorial and Shooting Exercises'
 uid: 35b7ffbd-84bd-897f-03e5-1e1ed49496d0
 video_files:
@@ -16,3 +27,4 @@ video_metadata:
 
 **Description:** This lab session concludes with a tutorial on the specific camera (Sony HVR-A1U) and tripod used in class, and students roam the campus doing initial shooting exercises.  
 **Instructor:** Chris Boebel, Christine Walley and Dave Stripinis
+

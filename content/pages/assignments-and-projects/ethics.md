@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page presents tip and legal guidelines for video-taping in public
+  spaces and working with people.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Projects
+parent_type: CourseSection
 parent_uid: 9364e108-2edb-6069-342e-722d78adba29
 title: DV Lab Documentary Ethics
 uid: eace5440-f8cc-2bb8-00c8-7381ab1ad356

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 10 Part 2: Introduction to Lighting (Demonstration)'
 uid: dcfcf1f3-3e92-3135-6126-800593609df9
 video_files:
@@ -16,3 +27,4 @@ video_metadata:
 
 **Description:** This lab session concludes with a demonstration of a basic three point lighting setup, along with tips for using natural lighting.  
 **Instructor:** David Tames, Chris Boebel
+

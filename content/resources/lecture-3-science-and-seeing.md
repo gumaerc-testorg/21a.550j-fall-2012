@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Science and Seeing'
 uid: 3cac9f1c-0438-f341-f733-002a34416bc3
 video_files:
@@ -16,3 +27,4 @@ video_metadata:
 
 **Description:** This lecture explores the interaction between doing science and making documentaries. Science is a human activity, not purely objective but also framed in social interpretations; and its depiction in film affects the public's grasp of scientific debate.  
 **Instructor:** Chris Boebel and Christine Walley
+

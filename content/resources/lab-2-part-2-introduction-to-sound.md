@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 2 Part 2: Introduction to Sound'
 uid: 4ffb5a0a-b9b9-f249-c823-0744f2197c37
 video_files:
@@ -16,3 +27,4 @@ video_metadata:
 
 **Description:** This lab session concludes with a brief lecture on microphones and digital audio, followed by hands-on activities with the class audio kit, including clip-on lavalier and shotgun boom mics.  
 **Instructor:** Chris Boebel, Christine Walley and Dave Stripinis
+

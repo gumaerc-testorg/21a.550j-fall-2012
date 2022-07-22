@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 2 Part 1: Review Lab 1 Footage; Film Grammar'
 uid: d312aa93-fb0b-90e6-2763-76b1fb3017be
 video_files:
@@ -16,3 +27,4 @@ video_metadata:
 
 **Description:** This lab session begins by discussing footage from the Lab 1 camera exercises, followed by a brief review of some camera features. The segment ends with a short discussion of film grammar (e.g. different types of shots).  
 **Instructor:** Chris Boebel, Christine Walley and Dave Stripinis
+

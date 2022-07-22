@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture and Lab Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 10 Part 1: Introduction to Lighting (Lecture)'
 uid: 927d3122-c9bc-bb8f-a002-0286375daf84
 video_files:
@@ -18,3 +29,4 @@ video_metadata:
 **Instructor:** David Tames, Chris Boebel
 
 **Reference**: From David Tames' [Video Basics Resource Page](http://kino-eye.com/reference/vba/).
+
