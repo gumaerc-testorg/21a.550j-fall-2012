@@ -29,5 +29,5 @@ video_metadata:
 **Description:** This lab session begins with a lecture on lighting. Topics include: the physics and perception of light, lighting setups for interviews, and lighting equipment.  
 **Instructor:** David Tames, Chris Boebel
 
-**Reference**: From David Tames' {{% resource_link "1b8b7ff6-5a14-4e10-9846-ed836edd2639" "Video Basics Resource Page" %}}.
+**Reference**: From David Tames' [Video Basics Resource Page](http://kino-eye.com/reference/vba/).
 
